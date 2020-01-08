@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"D",
+				"hw_Deleteobject"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"wth",
+				"with"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"i",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"co",
+				"col-md-12"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"n",
+				"nav-item"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"story",
+				"story"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"rout",
+				"Route"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"d",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snip",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/dave-first/app/Http/Controllers/PostsController.php",
+		"/var/www/html/dave-first/resources/views/layouts/app.blade.php",
+		"/var/www/html/dave-first/routes/web.php",
+		"/var/www/html/dave-first/resources/views/tbone/trending.blade.php",
+		"/var/www/html/dave-first/resources/views/home.blade.php",
+		"/var/www/html/dave-first/resources/views/posts/index.blade.php",
+		"/var/www/html/dave-first/resources/views/tbone/sports.blade.php",
+		"/var/www/html/dave-first/resources/views/include/navbar.blade.php",
+		"/var/www/html/dave-first/resources/views/posts/edit.blade.php",
+		"/var/www/html/dave-first/database/migrations/2019_08_30_091142_create_posts_table.php",
+		"/var/www/html/dave-first/app/Post.php",
+		"/var/www/html/dave-first/resources/views/CRUD/edit.blade.php",
+		"/var/www/html/dave-first/resources/views/welcome.blade.php",
+		"/var/www/html/dave-first/resources/views/include/footer.blade.php",
+		"/var/www/html/dave-first/resources/views/posts/comments.blade.php",
+		"/var/www/html/dave-first/app/Http/Controllers/TodoController.php",
+		"/var/www/html/dave-first/resources/views/todo/index.blade.php",
+		"/var/www/html/dave-first/database/migrations/2019_08_21_154639_create_todos_table.php",
+		"/var/www/html/dave-first/app/Http/Controllers/HomeController.php",
+		"/home/david/Downloads/index.jpeg",
+		"/var/www/html/dave-first/app/Todo.php",
+		"/var/www/html/dave-first/resources/views/layouts/layout.blade.php",
+		"/var/www/html/dave-first/resources/views/tbone/here.blade.php",
+		"/var/www/html/dave-first/resources/views/lognregister/register.blade.php",
+		"/var/www/html/dave-first/resources/views/lognregister/login.blade.php",
+		"/var/www/html/dave-first/resources/views/login/register.blade.php",
+		"/var/www/html/dave-first/resources/views/login/login.blade.php",
+		"/var/www/html/dave-first/webpack.mix.js",
+		"/var/www/html/dave-first/.env",
+		"/var/www/html/dave-first/resources/views/tbone/services.blade.php",
+		"/var/www/html/dave-first/resources/views/tbone/about.blade.php",
+		"/var/www/html/dave-first/public/css/app.css",
+		"/var/www/html/dave-first/app/Providers/AppServiceProvider.php",
+		"/var/www/html/dave-first/app/Here.php",
+		"/var/www/html/dave-first/app/Http/Controllers/HereController.php",
+		"/var/www/html/dave-first/resources/sass/app.scss",
+		"/var/www/html/dave-first/resources/sass/_variables.scss",
+		"/var/www/html/phpinfo.php",
+		"/var/www/html/dave-first/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/illustrated-layout.blade.php",
+		"/var/www/html/dave-first/resources/views/here.blade.php",
+		"/var/www/html/dave-first/routes/api.php",
+		"/var/www/html/dave-first/app/Http/Controllers/Controller.php",
+		"/var/www/html/dave-first/resources/views/todo/here.blade.php",
+		"/var/www/html/dave-first/config/session.php",
+		"/var/www/html/dave-first/database/migrations/2014_10_12_100000_create_password_resets_table.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kernel.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"ext install laravel-blade",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/illustrated-layout.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 440.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
